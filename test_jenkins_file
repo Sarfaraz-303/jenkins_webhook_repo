@@ -1,5 +1,6 @@
 id
 echo "This is Jenkins FreeStyle Job"
 echo "This is from Github Source."
+echo "Testing jenkins webhook."
 printenv
 ls -ltr
