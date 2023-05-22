@@ -1,0 +1,5 @@
+id
+echo "This is Jenkins FreeStyle Job"
+echo "This is from Github Source."
+printenv
+ls -ltr
